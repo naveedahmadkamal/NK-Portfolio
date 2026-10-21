@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NK Portfolio</string>
+    <string name="hero_name">Naveed Ahmad</string>
+    <string name="hero_tagline">Data Science • Machine Learning • Analytics</string>
+    <string name="hero_bio">BS Data Science graduate from GCUF with proven hands-on expertise in predictive modeling, deep learning architectures, SQL pipelines, and Power BI interactive dashboards.</string>
+</resources>
